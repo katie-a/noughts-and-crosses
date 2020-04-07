@@ -1,1 +1,1 @@
-# these are some of my projects
+# a simple noughts and crosses game
