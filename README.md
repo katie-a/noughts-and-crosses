@@ -1,1 +1,1 @@
-# cs50x
+# these are some of my projects
